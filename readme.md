@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Hasib</h1>
 <h3 align="center">Nothing To Say Actully!</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=haaasib&label=Profile%20views&color=0e75b6&style=flat" alt="haaasib" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=haaasib&label=Profile%20views&color=red&style=flat" alt="haaasib" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=haaasib" alt="haaasib" /></a> </p>
 
