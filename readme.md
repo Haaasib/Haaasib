@@ -13,7 +13,7 @@
 
 - 👨‍💻 All of my projects are available at [PortFolio](https://haaasib.github.io/rpg-portfolio/)
 
-- 💬 Ask me about **lua,js,html.css**
+- 💬 Ask me about **Lua HTML CSS JS C++**
 
 - 📫 How to reach me **hasibmhamud3@gmail.com**
 
