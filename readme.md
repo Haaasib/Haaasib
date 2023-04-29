@@ -38,5 +38,5 @@
 
 
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=haaasib&show_icons=true&locale=en" alt="haaasib" /></p>
+<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=haaasib&show_icons=true&locale=en" alt="haaasib" /></p>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=haaasib&show_icons=true&locale=en&layout=compact" alt="haaasib" /></p>
