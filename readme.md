@@ -35,9 +35,5 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/https://www.buymeacoffee.com/devhaasib"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="https://www.buymeacoffee.com/devhaasib" /></a><a href="https://ko-fi.com/https://ko-fi.com/devhaasib"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="https://ko-fi.com/devhaasib" /></a></p><br><br>
 
-
-
-
-
 <p><img align="left" src="https://github-readme-stats.vercel.app/api?username=haaasib&show_icons=true&locale=en" alt="haaasib" /></p>
 
