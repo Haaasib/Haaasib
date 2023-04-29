@@ -5,11 +5,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=haaasib" alt="haaasib" /></a> </p>
 
-- 🔭 I’m currently working on **Many Projects**
+- 🔭 I’m currently working on **Maybe Bank And Other Hacks**
 
-- 👯 I’m looking to collaborate on **Some QBCore resources**
+- 👯 I’m looking to collaborate on **Some QBCore Scripts**
 
-- 🤝 I’m looking for help with **Nothing**
+- 🤝 I’m looking for help with **I D K**
 
 - 👨‍💻 All of my projects are available at [PortFolio](https://haaasib.github.io/rpg-portfolio/)
 
