@@ -58,7 +58,7 @@ def generate_html(data):
             price = pkg.get('total_price', '0.00')
             currency = pkg.get('currency', 'USD')
             image = pkg.get('image') or "https://via.placeholder.com/250x150?text=No+Image"
-            link = f"{STORE_URL}/package/{p_id}"
+            link = f"{STORE_URL}/product/{p_id}"
             
             html += f'''    <td align="center" width="33%">
       <img src="{image}" width="100%" alt="{name}"><br/>
