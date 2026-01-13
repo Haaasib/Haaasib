@@ -2,11 +2,8 @@
 
   <img src="https://capsule-render.vercel.app/api?type=waving&color=00a2ff&height=250&section=header&text=Haaasib%20Scripts&fontSize=70&animation=fadeIn&fontAlignY=35&desc=Premium%20Scripts%20&%20UI&descAlignY=55&descAlign=50" width="100%"/>
 
-  <h1>🌐 tebex.haaasib.xyz</h1>
+  <h1>tebex.haaasib.xyz</h1>
   
-  <p>
-    <b>High Quality Resources • Instant Delivery • 24/7 Support</b>
-  </p>
 
   <a href="https://tebex.haaasib.xyz">
     <img src="https://img.shields.io/badge/VISIT_STORE-00a2ff?style=for-the-badge&logo=ko-fi&logoColor=white&labelColor=1a1a1a" height="50" />
