@@ -1,6 +1,6 @@
 <div align="center">
 
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=00a2ff&height=250&section=header&text=Haaasib%20Development&fontSize=70&animation=fadeIn&fontAlignY=35&desc=Premium%20Scripts%20&%20UI&descAlignY=55&descAlign=50" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=00a2ff&height=250&section=header&text=Haaasib%20Scripts&fontSize=70&animation=fadeIn&fontAlignY=35&desc=Premium%20Scripts%20&%20UI&descAlignY=55&descAlign=50" width="100%"/>
 
   <h1>🌐 tebex.haaasib.xyz</h1>
   
