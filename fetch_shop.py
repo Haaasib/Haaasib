@@ -5,7 +5,6 @@ import random
 API_URL = "https://headless.tebex.io/api/accounts/10gou-2164e9428612bc2608bce500013b85352d95c2df/categories?includePackages=1"
 STORE_URL = "https://tebex.haaasib.xyz"
 
-# 🔻 BLOCKED LIST (These will NEVER appear)
 BLOCKED_KEYWORDS = ["GRUPPE 6", "World Interactions", "Hunting Props"]
 
 def fetch_data():
