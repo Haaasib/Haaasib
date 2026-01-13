@@ -1,10 +1,18 @@
 import requests
 import re
-import random # <--- Added this to allow random selection
+import random
 
 # Your API URL
 API_URL = "https://headless.tebex.io/api/accounts/10gou-2164e9428612bc2608bce500013b85352d95c2df/categories?includePackages=1"
 STORE_URL = "https://tebex.haaasib.xyz"
+
+# 🔻 LOW PRIORITY LIST (These will appear rarely)
+LOW_PRIORITY_KEYWORDS = [
+    "GRUPPE 6",
+    "World Interactions",
+    "Plane Heist",
+    "Bus Simulator"
+]
 
 def fetch_data():
     try:
@@ -15,11 +23,44 @@ def fetch_data():
         print(f"Error: {e}")
         return None
 
+def get_weighted_random_packages(all_packages, count=6):
+    """
+    Picks 6 items, but gives 'Low Priority' items a much smaller chance of being picked.
+    """
+    if len(all_packages) <= count:
+        return all_packages
+        
+    selected = []
+    pool = all_packages.copy()
+    
+    while len(selected) < count and len(pool) > 0:
+        weights = []
+        for pkg in pool:
+            name = pkg.get('name', '')
+            weight = 100 # Standard weight for normal items
+            
+            # Check if this package is in the low priority list
+            for keyword in LOW_PRIORITY_KEYWORDS:
+                if keyword.lower() in name.lower():
+                    weight = 5 # 20x less likely to be picked
+                    break
+            
+            weights.append(weight)
+        
+        # Pick one item based on weight
+        picked_list = random.choices(pool, weights=weights, k=1)
+        picked_item = picked_list[0]
+        
+        selected.append(picked_item)
+        pool.remove(picked_item) # Remove from pool so we don't pick it twice
+        
+    return selected
+
 def generate_html(data):
     html = '<h2 align="center">🛒 Featured Scripts</h2>\n'
     html += '<div align="center">\n<table>\n'
     
-    # 1. Collect all packages from all categories into one flat list
+    # 1. Collect all packages
     all_packages = []
     if 'data' in data:
         for category in data['data']:
@@ -27,13 +68,10 @@ def generate_html(data):
                 for pkg in category['packages']:
                     all_packages.append(pkg)
 
-    # 2. RANDOMIZER: Limit to 6 random items
-    if len(all_packages) > 6:
-        selected_packages = random.sample(all_packages, 6)
-    else:
-        selected_packages = all_packages
+    # 2. USE NEW WEIGHTED SELECTOR
+    selected_packages = get_weighted_random_packages(all_packages, 6)
 
-    # 3. Create the Grid (3 items per row)
+    # 3. Create the Grid
     columns = 3
     for i in range(0, len(selected_packages), columns):
         html += '  <tr>\n'
@@ -42,7 +80,7 @@ def generate_html(data):
         for pkg in batch:
             p_id = pkg.get('id')
             name = pkg.get('name', 'Unknown Script')
-            # Shorten name if too long to keep grid clean
+            
             if len(name) > 25:
                 name = name[:22] + "..."
                 
@@ -50,7 +88,6 @@ def generate_html(data):
             currency = pkg.get('currency', 'USD')
             image = pkg.get('image')
             
-            # Fallback image if missing
             if not image:
                 image = "https://via.placeholder.com/250x150?text=No+Image"
             
@@ -74,11 +111,18 @@ def update_readme(new_content):
     with open('readme.md', 'r', encoding='utf-8') as f:
         content = f.read()
 
-    # FIX: Added the correct tags here so the script knows where to look
+    # Improved Regex to prevent duplication
     pattern = r'()(.*?)()'
+    
+    # Check if tags exist first
+    if not re.search(pattern, content, flags=re.DOTALL):
+        print("❌ Error: Could not find SHOP_START/END tags in readme.md")
+        return
+
     replacement = f'\\1\n{new_content}\n\\3'
     
-    new_readme = re.sub(pattern, replacement, content, flags=re.DOTALL)
+    # This replaces content BETWEEN tags, keeping the tags safe
+    new_readme = re.sub(pattern, replacement, content, flags=re.DOTALL, count=1)
     
     with open('readme.md', 'w', encoding='utf-8') as f:
         f.write(new_readme)
@@ -88,4 +132,4 @@ if __name__ == "__main__":
     if json_data:
         html_content = generate_html(json_data)
         update_readme(html_content)
-        print("✅ README updated with 6 random items.")
+        print("✅ README updated. Rare items given low priority.")
