@@ -11,7 +11,6 @@ LOW_PRIORITY_KEYWORDS = [
     "GRUPPE 6",
     "World Interactions",
     "Plane Heist",
-    "Bus Simulator"
 ]
 
 def fetch_data():
@@ -42,7 +41,7 @@ def get_weighted_random_packages(all_packages, count=6):
             # Check if this package is in the low priority list
             for keyword in LOW_PRIORITY_KEYWORDS:
                 if keyword.lower() in name.lower():
-                    weight = 5 # 20x less likely to be picked
+                    weight = 1 # 20x less likely to be picked
                     break
             
             weights.append(weight)
