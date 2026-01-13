@@ -64,7 +64,7 @@ def generate_html(data):
     return html
 
 def update_readme(new_content):
-    with open('README.md', 'r', encoding='utf-8') as f:
+    with open('readme.md', 'r', encoding='utf-8') as f:
         content = f.read()
 
     # Regex to replace content between tags
@@ -73,7 +73,7 @@ def update_readme(new_content):
     
     new_readme = re.sub(pattern, replacement, content, flags=re.DOTALL)
     
-    with open('README.md', 'w', encoding='utf-8') as f:
+    with open('readme.md', 'w', encoding='utf-8') as f:
         f.write(new_readme)
 
 if __name__ == "__main__":
