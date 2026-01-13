@@ -15,13 +15,10 @@
   <br/><br/>
 
   <p>
-    <a href="https://stackoverflow.com/users/538409294828273689" target="_blank">
-      <img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stackoverflow&logoColor=white" />
-    </a>
     <a href="https://www.youtube.com/@devHaaasib" target="_blank">
       <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
     </a>
-    <a href="https://discord.gg/x2Ecqjfd9c" target="_blank">
+    <a href="https://discord.gg/9m2KTFskjx" target="_blank">
       <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
     </a>
   </p>
