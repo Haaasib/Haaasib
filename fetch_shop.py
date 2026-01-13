@@ -6,10 +6,9 @@ import random
 API_URL = "https://headless.tebex.io/api/accounts/10gou-2164e9428612bc2608bce500013b85352d95c2df/categories?includePackages=1"
 STORE_URL = "https://tebex.haaasib.xyz"
 
-# 🔻 LOW PRIORITY LIST (These will appear rarely)
-LOW_PRIORITY_KEYWORDS = [
+# 🔻 BLOCKED LIST (These will NEVER appear in the grid)
+BLOCKED_KEYWORDS = [
     "GRUPPE 6",
-    "World Interactions",
     "Plane Heist",
 ]
 
@@ -22,38 +21,30 @@ def fetch_data():
         print(f"Error: {e}")
         return None
 
-def get_weighted_random_packages(all_packages, count=6):
+def get_random_packages(all_packages, count=6):
     """
-    Picks 6 items, but gives 'Low Priority' items a much smaller chance of being picked.
+    Filters out blocked items and picks 6 random allowed items.
     """
-    if len(all_packages) <= count:
-        return all_packages
-        
-    selected = []
-    pool = all_packages.copy()
+    allowed_packages = []
     
-    while len(selected) < count and len(pool) > 0:
-        weights = []
-        for pkg in pool:
-            name = pkg.get('name', '')
-            weight = 100 # Standard weight for normal items
-            
-            # Check if this package is in the low priority list
-            for keyword in LOW_PRIORITY_KEYWORDS:
-                if keyword.lower() in name.lower():
-                    weight = 1 # 20x less likely to be picked
-                    break
-            
-            weights.append(weight)
+    # 1. Filter out the blocked items
+    for pkg in all_packages:
+        name = pkg.get('name', '')
+        is_blocked = False
         
-        # Pick one item based on weight
-        picked_list = random.choices(pool, weights=weights, k=1)
-        picked_item = picked_list[0]
+        for keyword in BLOCKED_KEYWORDS:
+            if keyword.lower() in name.lower():
+                is_blocked = True
+                break
         
-        selected.append(picked_item)
-        pool.remove(picked_item) # Remove from pool so we don't pick it twice
-        
-    return selected
+        if not is_blocked:
+            allowed_packages.append(pkg)
+
+    # 2. Pick random items from the allowed list
+    if len(allowed_packages) > count:
+        return random.sample(allowed_packages, count)
+    else:
+        return allowed_packages
 
 def generate_html(data):
     html = '<h2 align="center">🛒 Featured Scripts</h2>\n'
@@ -67,8 +58,8 @@ def generate_html(data):
                 for pkg in category['packages']:
                     all_packages.append(pkg)
 
-    # 2. USE NEW WEIGHTED SELECTOR
-    selected_packages = get_weighted_random_packages(all_packages, 6)
+    # 2. GET FILTERED & RANDOM PACKAGES
+    selected_packages = get_random_packages(all_packages, 6)
 
     # 3. Create the Grid
     columns = 3
@@ -110,18 +101,17 @@ def update_readme(new_content):
     with open('readme.md', 'r', encoding='utf-8') as f:
         content = f.read()
 
-    # Improved Regex to prevent duplication
+    # ✅ FIXED REGEX: Now correctly finds your tags
     pattern = r'()(.*?)()'
     
-    # Check if tags exist first
     if not re.search(pattern, content, flags=re.DOTALL):
         print("❌ Error: Could not find SHOP_START/END tags in readme.md")
         return
 
     replacement = f'\\1\n{new_content}\n\\3'
     
-    # This replaces content BETWEEN tags, keeping the tags safe
-    new_readme = re.sub(pattern, replacement, content, flags=re.DOTALL, count=1)
+    # ✅ CLEAN REPLACEMENT: This deletes the old list and puts the new one
+    new_readme = re.sub(pattern, replacement, content, flags=re.DOTALL)
     
     with open('readme.md', 'w', encoding='utf-8') as f:
         f.write(new_readme)
@@ -131,4 +121,4 @@ if __name__ == "__main__":
     if json_data:
         html_content = generate_html(json_data)
         update_readme(html_content)
-        print("✅ README updated. Rare items given low priority.")
+        print("✅ README updated. Blocked items hidden.")
