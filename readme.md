@@ -9,8 +9,6 @@
     <img src="https://img.shields.io/badge/VISIT_STORE-00a2ff?style=for-the-badge&logo=ko-fi&logoColor=white&labelColor=1a1a1a" height="50" />
   </a>
   
-  <br/><br/>
-
 # My Store
 
   <p>
