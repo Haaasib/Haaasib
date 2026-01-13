@@ -6,7 +6,7 @@ API_URL = "https://headless.tebex.io/api/accounts/10gou-2164e9428612bc2608bce500
 STORE_URL = "https://tebex.haaasib.xyz"
 
 # 🔻 BLOCKED LIST (These will NEVER appear)
-BLOCKED_KEYWORDS = ["GRUPPE 6", "World Interactions"]
+BLOCKED_KEYWORDS = ["GRUPPE 6", "World Interactions", "Hunting Props"]
 
 def fetch_data():
     try:
