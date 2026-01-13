@@ -1,5 +1,6 @@
 import requests
 import re
+import random # <--- Added this to allow random selection
 
 # Your API URL
 API_URL = "https://headless.tebex.io/api/accounts/10gou-2164e9428612bc2608bce500013b85352d95c2df/categories?includePackages=1"
@@ -15,7 +16,7 @@ def fetch_data():
         return None
 
 def generate_html(data):
-    html = '<h2 align="center">🛒 Live Store Status</h2>\n'
+    html = '<h2 align="center">🛒 Featured Scripts</h2>\n'
     html += '<div align="center">\n<table>\n'
     
     # 1. Collect all packages from all categories into one flat list
@@ -26,11 +27,17 @@ def generate_html(data):
                 for pkg in category['packages']:
                     all_packages.append(pkg)
 
-    # 2. Create the Grid (3 items per row)
+    # 2. RANDOMIZER: Limit to 6 random items
+    if len(all_packages) > 6:
+        selected_packages = random.sample(all_packages, 6)
+    else:
+        selected_packages = all_packages
+
+    # 3. Create the Grid (3 items per row)
     columns = 3
-    for i in range(0, len(all_packages), columns):
+    for i in range(0, len(selected_packages), columns):
         html += '  <tr>\n'
-        batch = all_packages[i:i+columns]
+        batch = selected_packages[i:i+columns]
         
         for pkg in batch:
             p_id = pkg.get('id')
@@ -67,6 +74,7 @@ def update_readme(new_content):
     with open('readme.md', 'r', encoding='utf-8') as f:
         content = f.read()
 
+    # FIX: Added the correct tags here so the script knows where to look
     pattern = r'()(.*?)()'
     replacement = f'\\1\n{new_content}\n\\3'
     
@@ -80,4 +88,4 @@ if __name__ == "__main__":
     if json_data:
         html_content = generate_html(json_data)
         update_readme(html_content)
-        print("✅ README updated with latest Tebex data.")
+        print("✅ README updated with 6 random items.")
