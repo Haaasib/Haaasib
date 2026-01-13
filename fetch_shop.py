@@ -67,7 +67,6 @@ def update_readme(new_content):
     with open('readme.md', 'r', encoding='utf-8') as f:
         content = f.read()
 
-    # Regex to replace content between tags
     pattern = r'()(.*?)()'
     replacement = f'\\1\n{new_content}\n\\3'
     
