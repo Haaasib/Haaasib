@@ -1,4 +1,4 @@
-<h1 align="center">tebex.haaasib.xyz/</h1>
+<h1 align="center">tebex.haaasib.xyz</h1>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=haaasib&label=Profile%20views&color=red&style=flat" alt="haaasib" /> </p>
 
