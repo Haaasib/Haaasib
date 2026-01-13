@@ -20,4 +20,8 @@
 
   <img src="https://komarev.com/ghpvc/?username=haaasib&label=Views&color=blue&style=flat-square" alt="haaasib" />
 
+<!-- SHOP_START -->
+<!-- SHOP_END -->
+
 </div>
+
