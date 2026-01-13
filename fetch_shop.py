@@ -73,25 +73,27 @@ def generate_html(data):
     return html
 
 def update_readme(new_content):
-    # READ FILE
     with open('readme.md', 'r', encoding='utf-8') as f:
         content = f.read()
 
-    # ✅ THIS IS THE CRITICAL FIX - IT MUST HAVE THE TAGS INSIDE
-    pattern = r'()(.*?)()'
-    
-    # Check if tags exist
+    pattern = r'(<!-- SHOP_START -->)(.*?)(<!-- SHOP_END -->)'
+
     if not re.search(pattern, content, flags=re.DOTALL):
-        print("❌ Error: Could not find SHOP_START/END tags in readme.md")
+        print("❌ Error: SHOP_START / SHOP_END not found")
         return
 
-    # REPLACE ONLY THE MIDDLE
-    replacement = f'\\1\n{new_content}\n\\3'
-    new_readme = re.sub(pattern, replacement, content, flags=re.DOTALL)
-    
-    # SAVE FILE
+    replacement = r'\1\n' + new_content + r'\n\3'
+
+    new_readme = re.sub(
+        pattern,
+        replacement,
+        content,
+        flags=re.DOTALL
+    )
+
     with open('readme.md', 'w', encoding='utf-8') as f:
         f.write(new_readme)
+
 
 if __name__ == "__main__":
     json_data = fetch_data()
