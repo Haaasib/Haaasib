@@ -1,13 +1,31 @@
-<h1 align="center">tebex.haaasib.xyz</h1>
+<div align="center">
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=haaasib&label=Profile%20views&color=red&style=flat" alt="haaasib" /> </p>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=00a2ff&height=250&section=header&text=Haaasib%20Development&fontSize=70&animation=fadeIn&fontAlignY=35&desc=Premium%20Scripts%20&%20UI&descAlignY=55&descAlign=50" width="100%"/>
 
+  <h1>🌐 tebex.haaasib.xyz</h1>
+  
+  <p>
+    <b>High Quality Resources • Instant Delivery • 24/7 Support</b>
+  </p>
 
-<h3 align="center">Connect with me:</h3>
-<p align="center">
-<a href="https://stackoverflow.com/users/538409294828273689" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="538409294828273689" height="30" width="40" /></a>
-<a href="https://www.youtube.com/@devHaaasib" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="haaasib" height="30" width="40" /></a>
-<a href="https://discord.gg/x2Ecqjfd9c" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="x2Ecqjfd9c" height="30" width="40" /></a>
-</p>
+  <a href="https://tebex.haaasib.xyz">
+    <img src="https://img.shields.io/badge/VISIT_STORE-00a2ff?style=for-the-badge&logo=ko-fi&logoColor=white&labelColor=1a1a1a" height="50" />
+  </a>
+  
+  <br/><br/>
 
+  <p>
+    <a href="https://stackoverflow.com/users/538409294828273689" target="_blank">
+      <img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stackoverflow&logoColor=white" />
+    </a>
+    <a href="https://www.youtube.com/@devHaaasib" target="_blank">
+      <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
+    </a>
+    <a href="https://discord.gg/x2Ecqjfd9c" target="_blank">
+      <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
+    </a>
+  </p>
 
+  <img src="https://komarev.com/ghpvc/?username=haaasib&label=Views&color=blue&style=flat-square" alt="haaasib" />
+
+</div>
