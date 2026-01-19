@@ -1,7 +1,7 @@
 <div align="center">
-  <h1>tebex.haaasib.xyz</h1>
+  <h1>tebex.haaasib.dev</h1>
   
-  <a href="https://tebex.haaasib.xyz">
+  <a href="https://tebex.haaasib.dev">
     <img src="https://img.shields.io/badge/VISIT_STORE-00a2ff?style=for-the-badge&logo=ko-fi&logoColor=white&labelColor=1a1a1a" height="50" />
   </a>
   
