@@ -46,7 +46,10 @@
     "J0-qlogs",
     "J0-cartheft",
     "J0-nailscript",
-    "J0-supermarketsimulator"
+    "J0-supermarketsimulator",
+    "J0-Banking",
+    "J0-carWashSimulator",
+    "J0-Moonshine"
   ]
 }
 
