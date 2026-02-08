@@ -1,5 +1,6 @@
 {
   "scripts": [
+    "j-textui",
     "jomidar-ui",
     "jomidar-ammorobbery",
     "jomidar-bagheist",
