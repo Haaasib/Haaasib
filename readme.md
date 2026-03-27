@@ -24,6 +24,14 @@
 <table>
   <tr>
     <td align="center" width="33%">
+      <img src="https://dunb17ur4ymx4.cloudfront.net/packages/images/0b3c4e2aab8034dde011468d3f2eb0621a232282.png" width="100%" alt="Player Owned Store Sim..."><br/>
+      <b>Player Owned Store Sim...</b><br/>
+      <code>25 USD</code><br/>
+      <a href="https://tebex.haaasib.dev//product/7193511">
+        <img src="https://img.shields.io/badge/Buy_Now-0051ff?style=for-the-badge&logo=ko-fi&logoColor=white" height="25"/>
+      </a>
+    </td>
+    <td align="center" width="33%">
       <img src="https://dunb17ur4ymx4.cloudfront.net/packages/images/a27be0c1357e8507163ceddd89d73c5302e3c396.png" width="100%" alt="Ultimate Banking System"><br/>
       <b>Ultimate Banking System</b><br/>
       <code>30 USD</code><br/>
@@ -32,18 +40,10 @@
       </a>
     </td>
     <td align="center" width="33%">
-      <img src="https://dunb17ur4ymx4.cloudfront.net/packages/images/4019e570b5aa87ef297b3707c0a2f9b03367dd61.png" width="100%" alt="The Achemist’s | Chemi..."><br/>
-      <b>The Achemist’s | Chemi...</b><br/>
-      <code>15 USD</code><br/>
-      <a href="https://tebex.haaasib.dev//product/7255156">
-        <img src="https://img.shields.io/badge/Buy_Now-0051ff?style=for-the-badge&logo=ko-fi&logoColor=white" height="25"/>
-      </a>
-    </td>
-    <td align="center" width="33%">
-      <img src="https://dunb17ur4ymx4.cloudfront.net/packages/images/6d00d28da33e8462932c7317fbfca002d160d4aa.png" width="100%" alt="Advanced Bus Simulator..."><br/>
-      <b>Advanced Bus Simulator...</b><br/>
-      <code>25 USD</code><br/>
-      <a href="https://tebex.haaasib.dev//product/7140119">
+      <img src="https://dunb17ur4ymx4.cloudfront.net/packages/images/136a58557a068751b626c2c19628a32e8da21f0c.jpg" width="100%" alt="J0-StashOutfit Assets"><br/>
+      <b>J0-StashOutfit Assets</b><br/>
+      <code>0 USD</code><br/>
+      <a href="https://tebex.haaasib.dev//product/7278748">
         <img src="https://img.shields.io/badge/Buy_Now-0051ff?style=for-the-badge&logo=ko-fi&logoColor=white" height="25"/>
       </a>
     </td>
