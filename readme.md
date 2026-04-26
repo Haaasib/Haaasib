@@ -24,10 +24,36 @@
 <table>
   <tr>
     <td align="center" width="33%">
-      <img src="https://dunb17ur4ymx4.cloudfront.net/packages/images/4019e570b5aa87ef297b3707c0a2f9b03367dd61.png" width="100%" alt="The Achemist’s | Chemi..."><br/>
-      <b>The Achemist’s | Chemi...</b><br/>
+      <img src="https://dunb17ur4ymx4.cloudfront.net/packages/images/0f2855e09109775005f3d0de4374971e3b7f48da.png" width="100%" alt="Ultimate Access – 1 Month"><br/>
+      <b>Ultimate Access – 1 Month</b><br/>
+      <code>25 USD</code><br/>
+      <a href="https://tebex.haaasib.dev//product/7276219">
+        <img src="https://img.shields.io/badge/Buy_Now-0051ff?style=for-the-badge&logo=ko-fi&logoColor=white" height="25"/>
+      </a>
+    </td>
+    <td align="center" width="33%">
+      <img src="https://dunb17ur4ymx4.cloudfront.net/packages/images/752a5c698dbff427bc073a213cc46658616dda3d.jpg" width="100%" alt="Plane Heist Bundle"><br/>
+      <b>Plane Heist Bundle</b><br/>
       <code>15 USD</code><br/>
-      <a href="https://tebex.haaasib.dev//product/7255156">
+      <a href="https://tebex.haaasib.dev//product/7120030">
+        <img src="https://img.shields.io/badge/Buy_Now-0051ff?style=for-the-badge&logo=ko-fi&logoColor=white" height="25"/>
+      </a>
+    </td>
+    <td align="center" width="33%">
+      <img src="https://dunb17ur4ymx4.cloudfront.net/packages/images/5fd8d445b75b0a4a8c87814ab8bfd9cdc32e1ae7.jpg" width="100%" alt="Tablet & Jobs"><br/>
+      <b>Tablet & Jobs</b><br/>
+      <code>25 USD</code><br/>
+      <a href="https://tebex.haaasib.dev//product/7121236">
+        <img src="https://img.shields.io/badge/Buy_Now-0051ff?style=for-the-badge&logo=ko-fi&logoColor=white" height="25"/>
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="33%">
+      <img src="https://dunb17ur4ymx4.cloudfront.net/packages/images/a0a3f3d79d2e3d1cc635c13d5dc622c2a1b4e115.jpg" width="100%" alt="Small Quests"><br/>
+      <b>Small Quests</b><br/>
+      <code>15 USD</code><br/>
+      <a href="https://tebex.haaasib.dev//product/7176450">
         <img src="https://img.shields.io/badge/Buy_Now-0051ff?style=for-the-badge&logo=ko-fi&logoColor=white" height="25"/>
       </a>
     </td>
@@ -40,36 +66,10 @@
       </a>
     </td>
     <td align="center" width="33%">
-      <img src="https://dunb17ur4ymx4.cloudfront.net/packages/images/0f2855e09109775005f3d0de4374971e3b7f48da.png" width="100%" alt="Ultimate Access – 1 Month"><br/>
-      <b>Ultimate Access – 1 Month</b><br/>
-      <code>25 USD</code><br/>
-      <a href="https://tebex.haaasib.dev//product/7276219">
-        <img src="https://img.shields.io/badge/Buy_Now-0051ff?style=for-the-badge&logo=ko-fi&logoColor=white" height="25"/>
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="33%">
       <img src="https://dunb17ur4ymx4.cloudfront.net/packages/images/4863814aa94bf8e28b84bab8eb23d4b90e898491.png" width="100%" alt="Ultimate Speaker , DJ ..."><br/>
       <b>Ultimate Speaker , DJ ...</b><br/>
       <code>25 USD</code><br/>
       <a href="https://tebex.haaasib.dev//product/7315118">
-        <img src="https://img.shields.io/badge/Buy_Now-0051ff?style=for-the-badge&logo=ko-fi&logoColor=white" height="25"/>
-      </a>
-    </td>
-    <td align="center" width="33%">
-      <img src="https://dunb17ur4ymx4.cloudfront.net/packages/images/5fd8d445b75b0a4a8c87814ab8bfd9cdc32e1ae7.jpg" width="100%" alt="Tablet & Jobs"><br/>
-      <b>Tablet & Jobs</b><br/>
-      <code>25 USD</code><br/>
-      <a href="https://tebex.haaasib.dev//product/7121236">
-        <img src="https://img.shields.io/badge/Buy_Now-0051ff?style=for-the-badge&logo=ko-fi&logoColor=white" height="25"/>
-      </a>
-    </td>
-    <td align="center" width="33%">
-      <img src="https://dunb17ur4ymx4.cloudfront.net/packages/images/136a58557a068751b626c2c19628a32e8da21f0c.jpg" width="100%" alt="J0-StashOutfit Assets"><br/>
-      <b>J0-StashOutfit Assets</b><br/>
-      <code>0 USD</code><br/>
-      <a href="https://tebex.haaasib.dev//product/7278748">
         <img src="https://img.shields.io/badge/Buy_Now-0051ff?style=for-the-badge&logo=ko-fi&logoColor=white" height="25"/>
       </a>
     </td>
