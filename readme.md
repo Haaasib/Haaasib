@@ -24,6 +24,14 @@
 <table>
   <tr>
     <td align="center" width="33%">
+      <img src="https://dunb17ur4ymx4.cloudfront.net/packages/images/136a58557a068751b626c2c19628a32e8da21f0c.jpg" width="100%" alt="J0-StashOutfit Assets"><br/>
+      <b>J0-StashOutfit Assets</b><br/>
+      <code>0 USD</code><br/>
+      <a href="https://tebex.haaasib.dev//product/7278748">
+        <img src="https://img.shields.io/badge/Buy_Now-0051ff?style=for-the-badge&logo=ko-fi&logoColor=white" height="25"/>
+      </a>
+    </td>
+    <td align="center" width="33%">
       <img src="https://dunb17ur4ymx4.cloudfront.net/packages/images/a19d4fc5e529efa60022093ba78b60965f58f48d.png" width="100%" alt="Ultimate Meth Producti..."><br/>
       <b>Ultimate Meth Producti...</b><br/>
       <code>25 USD</code><br/>
@@ -39,6 +47,8 @@
         <img src="https://img.shields.io/badge/Buy_Now-0051ff?style=for-the-badge&logo=ko-fi&logoColor=white" height="25"/>
       </a>
     </td>
+  </tr>
+  <tr>
     <td align="center" width="33%">
       <img src="https://dunb17ur4ymx4.cloudfront.net/packages/images/465ce095de33f0cc5c9b318b3dde71dc5663d5c7.png" width="100%" alt="CityDesk — Full News &..."><br/>
       <b>CityDesk — Full News &...</b><br/>
@@ -47,29 +57,19 @@
         <img src="https://img.shields.io/badge/Buy_Now-0051ff?style=for-the-badge&logo=ko-fi&logoColor=white" height="25"/>
       </a>
     </td>
-  </tr>
-  <tr>
     <td align="center" width="33%">
-      <img src="https://dunb17ur4ymx4.cloudfront.net/packages/images/752a5c698dbff427bc073a213cc46658616dda3d.jpg" width="100%" alt="Plane Heist Bundle"><br/>
-      <b>Plane Heist Bundle</b><br/>
-      <code>20 USD</code><br/>
-      <a href="https://tebex.haaasib.dev//product/7120030">
-        <img src="https://img.shields.io/badge/Buy_Now-0051ff?style=for-the-badge&logo=ko-fi&logoColor=white" height="25"/>
-      </a>
-    </td>
-    <td align="center" width="33%">
-      <img src="https://dunb17ur4ymx4.cloudfront.net/packages/images/112473699cd7f8fdc3b1728b5ba78b6af4e6aada.jpg" width="100%" alt="Interact With Everything"><br/>
-      <b>Interact With Everything</b><br/>
-      <code>12 USD</code><br/>
-      <a href="https://tebex.haaasib.dev//product/7121235">
-        <img src="https://img.shields.io/badge/Buy_Now-0051ff?style=for-the-badge&logo=ko-fi&logoColor=white" height="25"/>
-      </a>
-    </td>
-    <td align="center" width="33%">
-      <img src="https://dunb17ur4ymx4.cloudfront.net/packages/images/09432e78a848ffa4c4b2853be811a622f6cccae2.png" width="100%" alt="MultiCharacter, Loadin..."><br/>
-      <b>MultiCharacter, Loadin...</b><br/>
+      <img src="https://dunb17ur4ymx4.cloudfront.net/packages/images/4863814aa94bf8e28b84bab8eb23d4b90e898491.png" width="100%" alt="Ultimate Speaker , DJ ..."><br/>
+      <b>Ultimate Speaker , DJ ...</b><br/>
       <code>25 USD</code><br/>
-      <a href="https://tebex.haaasib.dev//product/7301330">
+      <a href="https://tebex.haaasib.dev//product/7315118">
+        <img src="https://img.shields.io/badge/Buy_Now-0051ff?style=for-the-badge&logo=ko-fi&logoColor=white" height="25"/>
+      </a>
+    </td>
+    <td align="center" width="33%">
+      <img src="https://dunb17ur4ymx4.cloudfront.net/packages/images/5fd8d445b75b0a4a8c87814ab8bfd9cdc32e1ae7.jpg" width="100%" alt="Tablet & Jobs"><br/>
+      <b>Tablet & Jobs</b><br/>
+      <code>25 USD</code><br/>
+      <a href="https://tebex.haaasib.dev//product/7121236">
         <img src="https://img.shields.io/badge/Buy_Now-0051ff?style=for-the-badge&logo=ko-fi&logoColor=white" height="25"/>
       </a>
     </td>
