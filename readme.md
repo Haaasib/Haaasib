@@ -24,6 +24,14 @@
 <table>
   <tr>
     <td align="center" width="33%">
+      <img src="https://dunb17ur4ymx4.cloudfront.net/packages/images/136a58557a068751b626c2c19628a32e8da21f0c.jpg" width="100%" alt="J0-StashOutfit Assets"><br/>
+      <b>J0-StashOutfit Assets</b><br/>
+      <code>0 USD</code><br/>
+      <a href="https://tebex.haaasib.dev//product/7278748">
+        <img src="https://img.shields.io/badge/Buy_Now-0051ff?style=for-the-badge&logo=ko-fi&logoColor=white" height="25"/>
+      </a>
+    </td>
+    <td align="center" width="33%">
       <img src="https://dunb17ur4ymx4.cloudfront.net/packages/images/09432e78a848ffa4c4b2853be811a622f6cccae2.png" width="100%" alt="MultiCharacter, Loadin..."><br/>
       <b>MultiCharacter, Loadin...</b><br/>
       <code>25 USD</code><br/>
@@ -32,28 +40,20 @@
       </a>
     </td>
     <td align="center" width="33%">
-      <img src="https://dunb17ur4ymx4.cloudfront.net/packages/images/a0a3f3d79d2e3d1cc635c13d5dc622c2a1b4e115.jpg" width="100%" alt="Small Quests"><br/>
-      <b>Small Quests</b><br/>
-      <code>15 USD</code><br/>
-      <a href="https://tebex.haaasib.dev//product/7176450">
-        <img src="https://img.shields.io/badge/Buy_Now-0051ff?style=for-the-badge&logo=ko-fi&logoColor=white" height="25"/>
-      </a>
-    </td>
-    <td align="center" width="33%">
-      <img src="https://dunb17ur4ymx4.cloudfront.net/packages/images/a27be0c1357e8507163ceddd89d73c5302e3c396.png" width="100%" alt="Ultimate Banking System"><br/>
-      <b>Ultimate Banking System</b><br/>
-      <code>30 USD</code><br/>
-      <a href="https://tebex.haaasib.dev//product/7231446">
+      <img src="https://dunb17ur4ymx4.cloudfront.net/packages/images/0b3c4e2aab8034dde011468d3f2eb0621a232282.png" width="100%" alt="Player Owned Store Sim..."><br/>
+      <b>Player Owned Store Sim...</b><br/>
+      <code>25 USD</code><br/>
+      <a href="https://tebex.haaasib.dev//product/7193511">
         <img src="https://img.shields.io/badge/Buy_Now-0051ff?style=for-the-badge&logo=ko-fi&logoColor=white" height="25"/>
       </a>
     </td>
   </tr>
   <tr>
     <td align="center" width="33%">
-      <img src="https://dunb17ur4ymx4.cloudfront.net/packages/images/0b3c4e2aab8034dde011468d3f2eb0621a232282.png" width="100%" alt="Player Owned Store Sim..."><br/>
-      <b>Player Owned Store Sim...</b><br/>
-      <code>25 USD</code><br/>
-      <a href="https://tebex.haaasib.dev//product/7193511">
+      <img src="https://dunb17ur4ymx4.cloudfront.net/packages/images/465ce095de33f0cc5c9b318b3dde71dc5663d5c7.png" width="100%" alt="CityDesk — Full News &..."><br/>
+      <b>CityDesk — Full News &...</b><br/>
+      <code>35 USD</code><br/>
+      <a href="https://tebex.haaasib.dev//product/7453575">
         <img src="https://img.shields.io/badge/Buy_Now-0051ff?style=for-the-badge&logo=ko-fi&logoColor=white" height="25"/>
       </a>
     </td>
