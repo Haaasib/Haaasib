@@ -24,44 +24,36 @@
 <table>
   <tr>
     <td align="center" width="33%">
-      <img src="https://dunb17ur4ymx4.cloudfront.net/packages/images/d4562a195389cd17ea07bf099c7b3eca2c06e2f2.png" width="100%" alt="Ultimate Moonshine System"><br/>
-      <b>Ultimate Moonshine System</b><br/>
-      <code>25 USD</code><br/>
-      <a href="https://tebex.haaasib.dev//product/7165195">
+      <img src="https://dunb17ur4ymx4.cloudfront.net/packages/images/a9af4fb36be0950f4682cfa96537723aa7dd62c0.png" width="100%" alt="Advanced Banking"><br/>
+      <b>Advanced Banking</b><br/>
+      <code>28 USD</code><br/>
+      <a href="https://tebex.haaasib.dev//product/7695808">
         <img src="https://img.shields.io/badge/Buy_Now-0051ff?style=for-the-badge&logo=ko-fi&logoColor=white" height="25"/>
       </a>
     </td>
     <td align="center" width="33%">
-      <img src="https://dunb17ur4ymx4.cloudfront.net/packages/images/465ce095de33f0cc5c9b318b3dde71dc5663d5c7.png" width="100%" alt="CityDesk — Full News &..."><br/>
-      <b>CityDesk — Full News &...</b><br/>
-      <code>30 USD</code><br/>
-      <a href="https://tebex.haaasib.dev//product/7453575">
+      <img src="https://dunb17ur4ymx4.cloudfront.net/packages/images/4019e570b5aa87ef297b3707c0a2f9b03367dd61.png" width="100%" alt="The Achemist’s | Chemi..."><br/>
+      <b>The Achemist’s | Chemi...</b><br/>
+      <code>20 USD</code><br/>
+      <a href="https://tebex.haaasib.dev//product/7255156">
         <img src="https://img.shields.io/badge/Buy_Now-0051ff?style=for-the-badge&logo=ko-fi&logoColor=white" height="25"/>
       </a>
     </td>
     <td align="center" width="33%">
-      <img src="https://dunb17ur4ymx4.cloudfront.net/packages/images/be018c2aa36a4dc4ab48206003c4fa0bd9890fa0.png" width="100%" alt="Boombox, Speakers, Meg..."><br/>
-      <b>Boombox, Speakers, Meg...</b><br/>
+      <img src="https://dunb17ur4ymx4.cloudfront.net/packages/images/0f2855e09109775005f3d0de4374971e3b7f48da.png" width="100%" alt="Ultimate Access – 1 Month"><br/>
+      <b>Ultimate Access – 1 Month</b><br/>
       <code>25 USD</code><br/>
-      <a href="https://tebex.haaasib.dev//product/7680692">
+      <a href="https://tebex.haaasib.dev//product/7276219">
         <img src="https://img.shields.io/badge/Buy_Now-0051ff?style=for-the-badge&logo=ko-fi&logoColor=white" height="25"/>
       </a>
     </td>
   </tr>
   <tr>
     <td align="center" width="33%">
-      <img src="https://dunb17ur4ymx4.cloudfront.net/packages/images/5fd8d445b75b0a4a8c87814ab8bfd9cdc32e1ae7.jpg" width="100%" alt="Tablet & Jobs"><br/>
-      <b>Tablet & Jobs</b><br/>
-      <code>25 USD</code><br/>
-      <a href="https://tebex.haaasib.dev//product/7121236">
-        <img src="https://img.shields.io/badge/Buy_Now-0051ff?style=for-the-badge&logo=ko-fi&logoColor=white" height="25"/>
-      </a>
-    </td>
-    <td align="center" width="33%">
-      <img src="https://dunb17ur4ymx4.cloudfront.net/packages/images/6d00d28da33e8462932c7317fbfca002d160d4aa.png" width="100%" alt="Advanced Bus Simulator..."><br/>
-      <b>Advanced Bus Simulator...</b><br/>
-      <code>25 USD</code><br/>
-      <a href="https://tebex.haaasib.dev//product/7140119">
+      <img src="https://dunb17ur4ymx4.cloudfront.net/packages/images/02650e0b6abbca2629ecbeb14c7f8e56a3395062.png" width="100%" alt="Ultimate Dispatch MDT ..."><br/>
+      <b>Ultimate Dispatch MDT ...</b><br/>
+      <code>35 USD</code><br/>
+      <a href="https://tebex.haaasib.dev//product/7268511">
         <img src="https://img.shields.io/badge/Buy_Now-0051ff?style=for-the-badge&logo=ko-fi&logoColor=white" height="25"/>
       </a>
     </td>
@@ -70,6 +62,14 @@
       <b>Ultimate Meth Producti...</b><br/>
       <code>25 USD</code><br/>
       <a href="https://tebex.haaasib.dev//product/7260474">
+        <img src="https://img.shields.io/badge/Buy_Now-0051ff?style=for-the-badge&logo=ko-fi&logoColor=white" height="25"/>
+      </a>
+    </td>
+    <td align="center" width="33%">
+      <img src="https://dunb17ur4ymx4.cloudfront.net/packages/images/a0a3f3d79d2e3d1cc635c13d5dc622c2a1b4e115.jpg" width="100%" alt="Small Quests"><br/>
+      <b>Small Quests</b><br/>
+      <code>15 USD</code><br/>
+      <a href="https://tebex.haaasib.dev//product/7176450">
         <img src="https://img.shields.io/badge/Buy_Now-0051ff?style=for-the-badge&logo=ko-fi&logoColor=white" height="25"/>
       </a>
     </td>
