@@ -24,6 +24,32 @@
 <table>
   <tr>
     <td align="center" width="33%">
+      <img src="https://dunb17ur4ymx4.cloudfront.net/packages/images/0fd0af8c19239bce9d4b284aa703457b0f702323.png" width="100%" alt="LS Fire Alarm"><br/>
+      <b>LS Fire Alarm</b><br/>
+      <code>12 USD</code><br/>
+      <a href="https://tebex.haaasib.dev//product/7703747">
+        <img src="https://img.shields.io/badge/Buy_Now-0051ff?style=for-the-badge&logo=ko-fi&logoColor=white" height="25"/>
+      </a>
+    </td>
+    <td align="center" width="33%">
+      <img src="https://dunb17ur4ymx4.cloudfront.net/packages/images/f8975d381c445f91619d8e1ce9df863164d0feac.png" width="100%" alt="Advanced Vehicle Stick..."><br/>
+      <b>Advanced Vehicle Stick...</b><br/>
+      <code>25 USD</code><br/>
+      <a href="https://tebex.haaasib.dev//product/7424959">
+        <img src="https://img.shields.io/badge/Buy_Now-0051ff?style=for-the-badge&logo=ko-fi&logoColor=white" height="25"/>
+      </a>
+    </td>
+    <td align="center" width="33%">
+      <img src="https://dunb17ur4ymx4.cloudfront.net/packages/images/112473699cd7f8fdc3b1728b5ba78b6af4e6aada.jpg" width="100%" alt="Interact With Everything"><br/>
+      <b>Interact With Everything</b><br/>
+      <code>12 USD</code><br/>
+      <a href="https://tebex.haaasib.dev//product/7121235">
+        <img src="https://img.shields.io/badge/Buy_Now-0051ff?style=for-the-badge&logo=ko-fi&logoColor=white" height="25"/>
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="33%">
       <img src="https://dunb17ur4ymx4.cloudfront.net/packages/images/015827832536c97d09079aac7f3fe7f6ab665c50.png" width="100%" alt="Ultimate Car Wash & Mo..."><br/>
       <b>Ultimate Car Wash & Mo...</b><br/>
       <code>25 USD</code><br/>
@@ -32,28 +58,10 @@
       </a>
     </td>
     <td align="center" width="33%">
-      <img src="https://dunb17ur4ymx4.cloudfront.net/packages/images/a27be0c1357e8507163ceddd89d73c5302e3c396.png" width="100%" alt="Ultimate Banking System"><br/>
-      <b>Ultimate Banking System</b><br/>
-      <code>30 USD</code><br/>
-      <a href="https://tebex.haaasib.dev//product/7231446">
-        <img src="https://img.shields.io/badge/Buy_Now-0051ff?style=for-the-badge&logo=ko-fi&logoColor=white" height="25"/>
-      </a>
-    </td>
-    <td align="center" width="33%">
-      <img src="https://dunb17ur4ymx4.cloudfront.net/packages/images/a9af4fb36be0950f4682cfa96537723aa7dd62c0.png" width="100%" alt="Advanced Banking"><br/>
-      <b>Advanced Banking</b><br/>
-      <code>28 USD</code><br/>
-      <a href="https://tebex.haaasib.dev//product/7695808">
-        <img src="https://img.shields.io/badge/Buy_Now-0051ff?style=for-the-badge&logo=ko-fi&logoColor=white" height="25"/>
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="33%">
-      <img src="https://dunb17ur4ymx4.cloudfront.net/packages/images/a70a6369b2f1fe6e414ab4ec2ea78226383cd44c.png" width="100%" alt="Eats , Rides & Parcel ..."><br/>
-      <b>Eats , Rides & Parcel ...</b><br/>
-      <code>20 USD</code><br/>
-      <a href="https://tebex.haaasib.dev//product/7157587">
+      <img src="https://dunb17ur4ymx4.cloudfront.net/packages/images/25b6bc19454b58c77da7b7dde0b8a1bbdb1af659.png" width="100%" alt="Advanced Admin Menu & ..."><br/>
+      <b>Advanced Admin Menu & ...</b><br/>
+      <code>35 USD</code><br/>
+      <a href="https://tebex.haaasib.dev//product/7619831">
         <img src="https://img.shields.io/badge/Buy_Now-0051ff?style=for-the-badge&logo=ko-fi&logoColor=white" height="25"/>
       </a>
     </td>
@@ -62,14 +70,6 @@
       <b>Ultimate Dispatch MDT ...</b><br/>
       <code>35 USD</code><br/>
       <a href="https://tebex.haaasib.dev//product/7268511">
-        <img src="https://img.shields.io/badge/Buy_Now-0051ff?style=for-the-badge&logo=ko-fi&logoColor=white" height="25"/>
-      </a>
-    </td>
-    <td align="center" width="33%">
-      <img src="https://dunb17ur4ymx4.cloudfront.net/packages/images/752a5c698dbff427bc073a213cc46658616dda3d.jpg" width="100%" alt="Plane Heist Bundle"><br/>
-      <b>Plane Heist Bundle</b><br/>
-      <code>20 USD</code><br/>
-      <a href="https://tebex.haaasib.dev//product/7120030">
         <img src="https://img.shields.io/badge/Buy_Now-0051ff?style=for-the-badge&logo=ko-fi&logoColor=white" height="25"/>
       </a>
     </td>
