@@ -24,36 +24,36 @@
 <table>
   <tr>
     <td align="center" width="33%">
-      <img src="https://dunb17ur4ymx4.cloudfront.net/packages/images/be018c2aa36a4dc4ab48206003c4fa0bd9890fa0.png" width="100%" alt="Boombox, Speakers, Meg..."><br/>
-      <b>Boombox, Speakers, Meg...</b><br/>
-      <code>25 USD</code><br/>
-      <a href="https://tebex.haaasib.dev//product/7680692">
+      <img src="https://dunb17ur4ymx4.cloudfront.net/packages/images/465ce095de33f0cc5c9b318b3dde71dc5663d5c7.png" width="100%" alt="CityDesk — Full News &..."><br/>
+      <b>CityDesk — Full News &...</b><br/>
+      <code>30 USD</code><br/>
+      <a href="https://tebex.haaasib.dev//product/7453575">
         <img src="https://img.shields.io/badge/Buy_Now-0051ff?style=for-the-badge&logo=ko-fi&logoColor=white" height="25"/>
       </a>
     </td>
     <td align="center" width="33%">
-      <img src="https://dunb17ur4ymx4.cloudfront.net/packages/images/6d00d28da33e8462932c7317fbfca002d160d4aa.png" width="100%" alt="Advanced Bus Simulator..."><br/>
-      <b>Advanced Bus Simulator...</b><br/>
-      <code>25 USD</code><br/>
-      <a href="https://tebex.haaasib.dev//product/7140119">
+      <img src="https://dunb17ur4ymx4.cloudfront.net/packages/images/0fd0af8c19239bce9d4b284aa703457b0f702323.png" width="100%" alt="LS Fire Alarm"><br/>
+      <b>LS Fire Alarm</b><br/>
+      <code>12 USD</code><br/>
+      <a href="https://tebex.haaasib.dev//product/7703747">
         <img src="https://img.shields.io/badge/Buy_Now-0051ff?style=for-the-badge&logo=ko-fi&logoColor=white" height="25"/>
       </a>
     </td>
     <td align="center" width="33%">
-      <img src="https://dunb17ur4ymx4.cloudfront.net/packages/images/0f2855e09109775005f3d0de4374971e3b7f48da.png" width="100%" alt="Ultimate Access – 1 Month"><br/>
-      <b>Ultimate Access – 1 Month</b><br/>
-      <code>25 USD</code><br/>
-      <a href="https://tebex.haaasib.dev//product/7276219">
+      <img src="https://dunb17ur4ymx4.cloudfront.net/packages/images/4019e570b5aa87ef297b3707c0a2f9b03367dd61.png" width="100%" alt="The Achemist’s | Chemi..."><br/>
+      <b>The Achemist’s | Chemi...</b><br/>
+      <code>20 USD</code><br/>
+      <a href="https://tebex.haaasib.dev//product/7255156">
         <img src="https://img.shields.io/badge/Buy_Now-0051ff?style=for-the-badge&logo=ko-fi&logoColor=white" height="25"/>
       </a>
     </td>
   </tr>
   <tr>
     <td align="center" width="33%">
-      <img src="https://dunb17ur4ymx4.cloudfront.net/packages/images/4019e570b5aa87ef297b3707c0a2f9b03367dd61.png" width="100%" alt="The Achemist’s | Chemi..."><br/>
-      <b>The Achemist’s | Chemi...</b><br/>
-      <code>20 USD</code><br/>
-      <a href="https://tebex.haaasib.dev//product/7255156">
+      <img src="https://dunb17ur4ymx4.cloudfront.net/packages/images/69422ebb6aac9a4f065eef4ac0051664f4e6e96c.png" width="100%" alt="LifeInvader — Professi..."><br/>
+      <b>LifeInvader — Professi...</b><br/>
+      <code>25 USD</code><br/>
+      <a href="https://tebex.haaasib.dev//product/7687467">
         <img src="https://img.shields.io/badge/Buy_Now-0051ff?style=for-the-badge&logo=ko-fi&logoColor=white" height="25"/>
       </a>
     </td>
@@ -66,10 +66,10 @@
       </a>
     </td>
     <td align="center" width="33%">
-      <img src="https://dunb17ur4ymx4.cloudfront.net/packages/images/a27be0c1357e8507163ceddd89d73c5302e3c396.png" width="100%" alt="Ultimate Banking System"><br/>
-      <b>Ultimate Banking System</b><br/>
-      <code>30 USD</code><br/>
-      <a href="https://tebex.haaasib.dev//product/7231446">
+      <img src="https://dunb17ur4ymx4.cloudfront.net/packages/images/a0a3f3d79d2e3d1cc635c13d5dc622c2a1b4e115.jpg" width="100%" alt="Small Quests"><br/>
+      <b>Small Quests</b><br/>
+      <code>15 USD</code><br/>
+      <a href="https://tebex.haaasib.dev//product/7176450">
         <img src="https://img.shields.io/badge/Buy_Now-0051ff?style=for-the-badge&logo=ko-fi&logoColor=white" height="25"/>
       </a>
     </td>
