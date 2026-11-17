@@ -1,6 +1,6 @@
 # Haaasib
 
-Lead developer and maintainer of systems running live for real companies. Ready-made HR and business modules too, so teams can start without a developer.
+Lead developer and maintainer of systems running live for real companies.
 
 Former FiveM scripter.
 
